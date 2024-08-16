@@ -1,0 +1,4 @@
+# textdomain: mcl_hollow_logs
+
+@1 Hollow Log=
+Stripped @1 Hollow Log=
