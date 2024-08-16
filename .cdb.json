@@ -6,7 +6,7 @@
     "tags": ["building", "decorative"],
     "license": "MIT",
     "media_license":"CC-BY-SA-3.0",
-    "repo": "https://github.com/JoseDouglas26/mcl_hollow_logs",
+    "repo": "https://github.com/JoseDouglas26/mcl_hollow_logs.git",
     "issue_tracker": "https://github.com/JoseDouglas26/mcl_hollow_logs/issues",
     "donate_url": "https://github.com/sponsors/JoseDouglas26",
     "short_description": "Adds hollow logs to each Mineclonia tree/hypha.",
