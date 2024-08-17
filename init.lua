@@ -79,3 +79,5 @@ for wood, defs in pairs(mcl_trees.woods) do
         }
     })
 end
+
+dofile(minetest.get_modpath("mcl_hollow_logs").."/compat.lua")
