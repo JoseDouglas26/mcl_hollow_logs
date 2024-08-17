@@ -6,5 +6,5 @@ Adds hollow logs to each Mineclonia tree/hypha. Equivalent to [**vl_hollow_logs*
 
 ### Crafting
 [ \[ &nbsp; &nbsp; &nbsp; \] \[<span style="color:red">**Log**</span>\] \[ &nbsp; &nbsp; &nbsp; \] ] <br>
-[ \[<span style="color:red">**Log**</span>\] \[ &nbsp; &nbsp; &nbsp; \] \[<span style="color:red">**Log**</span>\] ] [<span style="color:red">**Hollow log 4**</span>] <br>
+[ \[<span style="color:red">**Log**</span>\] \[ &nbsp; &nbsp; &nbsp; \] \[<span style="color:red">**Log**</span>\] ] &rarr; [<span style="color:red">**Hollow log 4**</span>] <br>
 [ \[ &nbsp; &nbsp; &nbsp; \] \[<span style="color:red">**Log**</span>\] \[ &nbsp; &nbsp; &nbsp; \] ] <br>
