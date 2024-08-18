@@ -1,0 +1,19 @@
+{
+    "content_warnings": [],
+    "dev_state": "ACTIVELY_DEVELOPED",
+    "donate_url": "https://github.com/sponsors/JoseDouglas26",
+    "forums": null,
+    "issue_tracker": "https://github.com/JoseDouglas26/mcl_hollow_logs/issues",
+    "license": "MIT",
+    "long_description": "# Hollow Logs for Mineclonia (mcl_hollow_logs)\n[![ContentDB](https://content.minetest.net/packages/dougsouza26/mcl_hollow_logs/shields/title/)](https://content.minetest.net/packages/dougsouza26/mcl_hollow_logs/) &nbsp; [![ContentDB](https://content.minetest.net/packages/dougsouza26/mcl_hollow_logs/shields/downloads/)](https://content.minetest.net/packages/dougsouza26/mcl_hollow_logs/)\n## Description\nAdds hollow logs to each Mineclonia tree/hypha. Equivalent to [**vl_hollow_logs**](https://git.minetest.land/VoxeLibre/VoxeLibre/src/branch/master/mods/ITEMS/vl_hollow_logs) in Voxelibre. These logs can be crafted from their normal variants, whether stripped or not. Like normal logs, hollow logs can be oriented on all three axes. Also like overworld logs, overworld hollow logs can be used as fuel and can also be used to make charcoal when burned in a furnace. Unstripped hollow logs can be stripped using axes.\n### Crafting\n[ \\[\\_\\_\\_\\_\\] \\[<span style=\"color:red\">**Log**</span>\\] \\[\\_\\_\\_\\_\\] ] <br>\n[ \\[<span style=\"color:red\">**Log**</span>\\] \\[\\_\\_\\_\\_\\] \\[<span style=\"color:red\">**Log**</span>\\] ] &rarr; [<span style=\"color:red\">**Hollow log 4**</span>] <br>\n[ \\[\\_\\_\\_\\_\\] \\[<span style=\"color:red\">**Log**</span>\\] \\[\\_\\_\\_\\_\\] ] <br>",
+    "media_license": "CC-BY-SA-3.0",
+    "name": "mcl_hollow_logs",
+    "repo": "https://github.com/JoseDouglas26/mcl_hollow_logs",
+    "short_description": "Adds hollow logs to each Mineclonia tree/hypha.",
+    "tags": ["building", "decorative"],
+    "title": "Hollow Logs for Mineclonia",
+    "translation_url": null,
+    "type": "MOD",
+    "video_url": null,
+    "website": null
+}
