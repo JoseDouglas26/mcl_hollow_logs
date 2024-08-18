@@ -1,4 +1,7 @@
 # textdomain: mcl_hollow_logs
 
+Hollow Logs for Mineclonia =
+Adds hollow logs to each Mineclonia tree/hypha. =
+
 @1 Hollow Log=
 Stripped @1 Hollow Log=
